@@ -1,0 +1,2 @@
+model_checkpoint_path: "emnist_model_tf"
+all_model_checkpoint_paths: "emnist_model_tf"
